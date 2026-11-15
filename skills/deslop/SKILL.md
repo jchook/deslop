@@ -9,9 +9,9 @@ Minimize the reader's effort, not the word count.
 
 Apply these rules when drafting or editing prose:
 
-1. **Edit ideas first.** Identify what the reader actually needs to know. Keep information that helps the reader understand something relevant, make a decision, or take action. Remove unnecessary explanations, justifications, qualifications, and tangents. Do not preserve an idea merely because it appears in the draft or is factually correct.
+1. **Edit ideas first.** Identify what the reader actually needs to know. Keep information that helps the reader understand something relevant, make a decision, or take action. Remove unnecessary explanations, justifications, qualifications, and tangents, but preserve details and conditions needed for accuracy. Do not preserve an idea merely because it appears in the draft or is factually correct.
 
-2. **Avoid pretzel sentences and semantic compression.** Don't twist simple ideas into unnatural syntax or pack several relationships into a single sentence. Put the important fact in the main clause instead of burying it in a modifier. Avoid constructions like "a secret the agent never sees" or "an output tree nobody reads" when a direct statement would be clearer. Describe the relevant behavior or conclusion rather than narrating incidental implementation details. Prefer familiar phrasing that readers can understand without mentally reconstructing the intended meaning.
+2. **Avoid pretzel sentences and semantic compression.** Express ideas in straightforward sentences with natural syntax. Don't pack several relationships into a phrase or force readers to reconstruct what modifies what, who does what, or what a description actually means. Put the main point in the main clause instead of burying it in a modifier. Avoid compressed descriptions like "a secret the agent never sees" or "an output tree nobody reads" when a direct statement would be clearer. Separate ideas when their relationships are easier to understand explicitly. Don't narrate incidental implementation details when the relevant behavior or conclusion is enough.
 
 3. **Use ordinary technical language.** Prefer established terminology and conventional verbs. Avoid forced personification, invented labels, and clever metaphors.
 
